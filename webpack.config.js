@@ -89,12 +89,12 @@ module.exports = {
 			inlineSource: isInline ? '.(js|css)$' : '',
 			hash: isInline ? false : true,
 			template: './src/index.html',
-			title: 'svelte-boilerplate'
+			title: 'Kolenka Inc'
 		}),
 		new HtmlWebpackInlineSourcePlugin()
 	],
 	devtool: prod ? false : 'source-map',
 	devServer: {
-		port: 3000
+		port: 3001
 	}
 };
