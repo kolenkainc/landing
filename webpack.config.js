@@ -95,6 +95,6 @@ module.exports = {
 	],
 	devtool: prod ? false : 'source-map',
 	devServer: {
-		port: 3000
+		port: 3001
 	}
 };
