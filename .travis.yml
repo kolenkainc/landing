@@ -16,7 +16,7 @@ deploy:
   committer-from-gh: true
   skip-cleanup: true
   keep-history: true
-  local-dir: build
+  local-dir: public
   repo: kolenkainc/kolenkainc.github.io
   target-branch: master
   on:
