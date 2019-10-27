@@ -33,3 +33,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+@font-face {
+  font-family: 'AcademyC';
+    src: url('https://nomail.com.ua/files/eot/41c8139be5a5994c14674c7b32272306.eot?#iefix') format('embedded-opentype'),
+        url('https://nomail.com.ua/files/woff/41c8139be5a5994c14674c7b32272306.woff') format('woff'),
+        url('https://nomail.com.ua/files/woff2/41c8139be5a5994c14674c7b32272306.woff2') format('woff2');
+  }

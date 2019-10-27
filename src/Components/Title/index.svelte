@@ -7,6 +7,8 @@
 </style>
 
 <div class="title">
-  <div>Привет</div>
-	<div>Мы - Коленка Инкорпорейтед</div>
+  <div class="text">
+    <p>Привет</p>
+	  <p>Мы - Коленка Инкорпорейтед</p>
+  </div>
 </div>
