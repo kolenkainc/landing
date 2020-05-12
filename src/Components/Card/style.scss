@@ -1,0 +1,15 @@
+.card {
+    height: 400px;
+    width: 100%;
+}
+
+.image-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .bg-image {
+        background-image: url("../../Assets/images/chertopolokh.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
