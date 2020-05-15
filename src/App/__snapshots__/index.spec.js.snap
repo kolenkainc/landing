@@ -10,40 +10,61 @@ exports[`App should render the app 1`] = `
         class="container"
       >
         <div
-          class="container__top"
+          class="farewell"
         >
           <div
-            class="image-content"
+            class="child"
           >
             <div
-              class="bg-image"
-            />
-          </div>
-        </div>
-         
-        <div
-          class="container__middle"
-        >
-          <div
-            class="title"
-          >
-            <span
-              class="title__top"
+              class="title"
             >
-              Hello
-            </span>
+              Чертополох
+            </div>
              
-            <span
-              class="title__front"
+            <div
+              class="image-content"
             >
-              World
-            </span>
+              <div
+                class="smile-image"
+              />
+            </div>
              
-            <span
-              class="title__back"
+            <div
+              class="description"
             >
-              World
-            </span>
+              <p>
+                В прошлом году мы попробовали идею о том, 
+            как можно недорого и удобно для всех (зрителей / контролеров 
+            / организаторов) продавать билеты на концерты.
+              </p>
+               
+              <p>
+                Чтобы развиваться дальше нужно развивать сервис. 
+            К сожалению, сейчас мы не видим 
+            большой выгоды в его развитии — поэтому временно закрываем проект.
+              </p>
+               
+              <p>
+                Возможно мы будем периодически открывать продажи билетов 
+            на какие-то специальные мероприятия.
+              </p>
+               
+              <p>
+                Но как итог этого полугодия — 
+            хочется сердечно поблагодарить всех, 
+            кто не боялся покупать электронные билеты 
+            и писал в техподдержку. Нашей команде правда очень жаль 
+            расставаться со всеми вами!
+              </p>
+               
+              <div
+                class="team"
+              >
+                <p>
+                  Команда Kolenka Inc.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
